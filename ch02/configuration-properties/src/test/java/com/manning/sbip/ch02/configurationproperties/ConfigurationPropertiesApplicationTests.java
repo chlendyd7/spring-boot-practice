@@ -1,4 +1,4 @@
-package java.com.manning.sbip.ch02.configurationproperties;
+package com.manning.sbip.ch02.configurationproperties;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
